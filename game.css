@@ -1,0 +1,19 @@
+#question{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+#answer{
+    font-size: 25px;
+    width: 100px;
+}
+#result{
+    font-size: 25px;
+    margin-top: 20px;
+}
+#next{
+    font-size: 25px;
+    display: none;
+}
+body{
+    background-color: burlywood;
+}
